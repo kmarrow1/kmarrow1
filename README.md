@@ -4,9 +4,9 @@
 
 ### Hi there 👋 I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
-👩‍💻  I am a dedicated full stack engineer with proven experience
-💻 I am proficient with JavaScript, HTML, CSS, Typescript,Sass,Next.js,Node.js, React, Redux, MongoDB, PostgreSQL,Docker, Kubernettes,and Oauth
-📚 I enjoy learning new technologies and engineering best practices
+- 👩‍💻  I am a dedicated full stack engineer with proven experience
+- 💻 I am proficient with JavaScript, HTML, CSS, Typescript,Sass,Next.js,Node.js, React, Redux, MongoDB, PostgreSQL,Docker, Kubernettes,and Oauth
+- 📚 I enjoy learning new technologies and engineering best practices
 
 
 <!--
