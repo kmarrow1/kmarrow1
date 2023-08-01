@@ -21,12 +21,14 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kmarrow1)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&hide_progress=true)
+
+
 
 https://github-profile-trophy.vercel.app/?username=kmarrow1&theme=chalk
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&hide_progress=true)
 
 </a>
 
