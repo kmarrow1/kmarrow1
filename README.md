@@ -22,8 +22,12 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kmarrow1)
 
 
-
 https://github-profile-trophy.vercel.app/?username=kmarrow1&theme=chalk
+
+
+<img src="www.linkedin.com/in/katherine-marrow/languages?username=kmarrow1" />
+
+
 <!--
 **kmarrow1/kmarrow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
