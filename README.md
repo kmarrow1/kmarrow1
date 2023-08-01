@@ -2,16 +2,20 @@
 
 
 
-### Hi there 👋 I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
+### About Me:
+
+I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
 - 👩‍💻  I am a dedicated full stack engineer with proven experience
 - 💻 I am proficient with JavaScript, HTML, CSS, Typescript,Sass,Next.js,Node.js, React, Redux, MongoDB, PostgreSQL,Docker, Kubernettes,and Oauth
 - 📚 I enjoy learning new technologies and engineering best practices
 - 🔭 I’m currently working on a social media/market application
 
+### :fire: My Stats :
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmarrow1)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmarrow1 &show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmarrow1 &theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **kmarrow1/kmarrow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
