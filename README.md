@@ -26,6 +26,9 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </a>
 
 <!--
