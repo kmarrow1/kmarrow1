@@ -17,6 +17,11 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://camo.githubusercontent.com/c59d69a6da0afd986daebd13beecaf094086f39de4d5fd3bc60bde5c5eaeec09/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d777661766961746f72266578636c7564655f7265706f3d4a6f6e6e794170706c652c42616c6c6f6f6e2d4672656e7a792c546f70446f776e4368617261637465722c57696c64666972652c4574636865642c466c696768742d53696d2d5265706f267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&amp;exclude_repo=JonnyApple,Balloon-Frenzy,TopDownCharacter,Wildfire,Etched,Flight-Sim-Repo&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
+
+
 <!--
 **kmarrow1/kmarrow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
