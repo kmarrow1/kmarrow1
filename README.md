@@ -23,7 +23,7 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kmarrow1)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=kmarrow1&theme=chalk
 <!--
 **kmarrow1/kmarrow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
