@@ -21,12 +21,6 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1)](https://github.com/anuraghazra/github-readme-stats)
 
-[!TopLangsJ(https://github-readme-stats.vercelapp/apiltop-langs/?
-username=kmarrow1&langs_count=8&hide=html,css&layout=compact) (https: //github.com/aang13/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kmarrow1)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,16 +31,7 @@ username=kmarrow1&langs_count=8&hide=html,css&layout=compact) (https: //github.c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmcromer1&show_icons=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&langs_count=8)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmarrow1&layout=compact)
 
 </a>
 
