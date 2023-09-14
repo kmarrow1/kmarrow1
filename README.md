@@ -15,9 +15,6 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
 
 </a>
-### :fire: My Stats :
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmarrow1)](https://git.io/streak-stats)
 
 
 <!--
@@ -33,4 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### :fire: My Stats :
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmarrow1)](https://git.io/streak-stats)
+
 -->
