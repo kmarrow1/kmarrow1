@@ -11,14 +11,14 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 - 📚 I enjoy learning new technologies and engineering best practices
 - 🔭 In my spare time I am currently working on a social media/market application
 
-### :fire: My Stats :
-
-// [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmarrow1)](https://git.io/streak-stats)
-
 
 
 
 </a>
+### :fire: My Stats :
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmarrow1)](https://git.io/streak-stats)
+
 
 <!--
 **kmarrow1/kmarrow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
