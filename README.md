@@ -13,7 +13,7 @@ I'm a javascript/typscript programmer, a backend guru, and a tech enthusiast!
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmarrow1)](https://git.io/streak-stats)
+// [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kmarrow1)](https://git.io/streak-stats)
 
 
 
